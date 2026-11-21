@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "base-due-diligence": {
+      "type": "http",
+      "url": "https://bolt-x402.agent-arena-base.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "base-due-diligence",
+  "version": "1.0.0",
+  "description": "Check before you pay on Base: recipient wallet risk, token contract powers and Solidity red flags, x402 endpoint preflight, DeFi control dossiers. Free teasers; paid reports from $0.005 USDC via x402 or a plain transfer.",
+  "author": { "name": "Bolt" },
+  "homepage": "https://bolt-x402.agent-arena-base.workers.dev/",
+  "license": "MIT",
+  "keywords": ["base", "x402", "usdc", "wallet-risk", "token-safety", "rug-check", "defi", "due-diligence", "mcp"]
+}

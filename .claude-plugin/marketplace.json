@@ -1,0 +1,18 @@
+{
+  "name": "bolt-due-diligence",
+  "owner": { "name": "Bolt" },
+  "metadata": {
+    "description": "Check before you pay: on-chain pre-send checks, safe x402 payments and DeFi control dossiers on Base.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "base-due-diligence",
+      "source": "./",
+      "description": "Three skills (onchain-pre-send-check, x402-pay-safely, defi-deposit-check) plus the Base Agent Due-Diligence Kit MCP server. Free teaser checks; full reports from $0.005 in USDC on Base via x402 or a plain transfer.",
+      "version": "1.0.0",
+      "category": "security",
+      "keywords": ["base", "x402", "usdc", "wallet-risk", "token-safety", "rug-check", "defi", "due-diligence", "mcp"]
+    }
+  ]
+}
